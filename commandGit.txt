@@ -1,6 +1,7 @@
-git init
-git add README.md
+
+git init - one time for 1 project
+git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/tahiamustofa/practice2k26.git
+git remote add origin https://github.com/tahiamustofa/practice2k26.git -1 time
 git push -u origin main
